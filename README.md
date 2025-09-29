@@ -1,6 +1,5 @@
 # End-to-End Vendor Insights
 
-![Workflow](Workflow.png)
 
 ---
 
